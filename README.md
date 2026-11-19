@@ -1,0 +1,2 @@
+# Design-and-hardware-implementation-of-ai-enabled-LIFEPO4-state-of-health-monitoring-system-
+Hardware Implementation A typical hardware prototype for a multi-cell  LiFePO 4 LiFePO  4 ​   pack centers on a capable microcontroller or edge processor such as an ESP32-S3 or STM32. Cell voltages are acquired through a dedicated battery Analog Front-End (AFE) or isolated ADC channels to maintain millivolt accuracy and safe high-side/low
